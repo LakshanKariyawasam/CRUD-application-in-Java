@@ -7,4 +7,4 @@ Follow the following three simple steps to run this project.
 2. Set the name of database, user and password in Database.java file.
 3. Run the project.
 
-Follow the video tutorial here: https://www.youtube.com/playlist?list=PLKeTLZNqQzs4nRcfIT_UMyBvDqaEp8BMX
+Follow the video tutorials here: https://www.youtube.com/playlist?list=PLKeTLZNqQzs4nRcfIT_UMyBvDqaEp8BMX
